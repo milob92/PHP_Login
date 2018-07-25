@@ -3,9 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>Login</title>
-  <<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7
-  /css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7
-  on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7
+  /css/bootstrap.min.css">
 </head>
 <body>
   <div class="container">
@@ -22,6 +21,7 @@
           <input type="password" name="password" class="form-control">
         </div>
 
+        <input class="submit" type="submit" name="submit" value="Submit"/>
         </form>
     </div>
   </div>
